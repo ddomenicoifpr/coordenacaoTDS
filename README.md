@@ -2,7 +2,7 @@
   <img src="logo-IFPR.png" alt="Instituto Federal do Paraná" height="100">
 </p>
 
-# 🎓 Coordenação do Curso — TDS / IFPR
+# 🎓 Coordenação do Curso — TDS / IFPR / Foz do Iguaçu
 
 > Repositório do coordenador do curso **Técnico em Desenvolvimento de Sistemas (TDS)**, do **Instituto Federal do Paraná — Campus Foz do Iguaçu**.
 
